@@ -7,14 +7,11 @@ I'm currently Exchange in University of HongKong at the Faculty of Engineer, Uni
 <code>Zhehaodn@163.com</code>  
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**University of Melbourne**, Bachelor of Science (2024 – 2026)  
+• GPA: 75/100 
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**University of HongKong**, Exchange student (2025)<br>  
+• As a Computer science major, represented my college as an outstanding student for a overseas exchange program.  
 
 #### Research Interests  
-XX, XX, XX, XX.
+Computer Science
