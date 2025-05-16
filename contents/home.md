@@ -1,10 +1,10 @@
 [![XX](http://github.com/ZhehaoD)](http://github.com/ZhehaoD)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm currently pursuing a Bachelor's degree in University of Melbourne at the Faculty of Science, University of Melbourne.
+I'm currently Exchange in University of HongKong at the Faculty of Engineer, University of HongKong.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>Zhehaodn@163.com</code>  
 
 #### Education  
 **XX University**, Master of XX (XX – XX)  
