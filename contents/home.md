@@ -1,4 +1,4 @@
-[![Zhehao](https://img.shields.io/badge/XX-github-blue?logo=github)](http://github.com/ZhehaoD)
+[![Zhehao](https://img.shields.io/badge/Zhehao-github-blue?logo=github)](http://github.com/ZhehaoD)
 
 I'm currently pursuing a Bachelor's degree in University of Melbourne at the Faculty of Science, University of Melbourne.
 I'm currently Exchange in University of HongKong at the Faculty of Engineer, University of HongKong.
